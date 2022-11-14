@@ -16,7 +16,7 @@ The datasets may be found here:
 
 
 #### Business Case
-An accurate and reliable energy demand forecast helps utilities operate efficiently and manage energy supply to all customers connected to the grid.
+An accurate and reliable energy demand forecast helps utilities operate efficiently and manage energy supply to all customers connected to the grid..
 
 
 
